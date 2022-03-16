@@ -29,21 +29,23 @@ Have a great interest in web-development, want  to make things more useful, esth
 
 ## Code
 
-`function longest_words(){`
-`  let t = prompt ('Введите любой текст','Текст не введен');`
-`  let tarr = new Array();`
-`  tarr=t.split(" ");`
-`  let t_m`
-`  let k=tarr.length;`
-`  for (let j=0;j<k;j++){`
-`    for (let i=1; i<k;i++){`
-`      if (tarr[i-1].length<tarr[i].length) {`
-`        t_m=tarr[i-1];tarr[i-1]=tarr[i];tarr[i]=t_m; `
-`      }`
-`    }`
-`  }`
-`  alert('Ваши самые длинные слова всего лишь: \r\n'+tarr[0]+', '+tarr[1]+', '+tarr[2]+'\r\nМожно было и длиннее.');`
-`}`
+```
+function longest_words(){
+  let t = prompt ('Введите любой текст','Текст не введен');
+  let tarr = new Array();
+  tarr=t.split(" ");
+  let t_m
+  let k=tarr.length;
+  for (let j=0;j<k;j++){
+    for (let i=1; i<k;i++){
+      if (tarr[i-1].length<tarr[i].length) {
+        t_m=tarr[i-1];tarr[i-1]=tarr[i];tarr[i]=t_m; 
+      }
+    }
+  }
+  alert('Ваши самые длинные слова всего лишь: \r\n'+tarr[0]+', '+tarr[1]+', '+tarr[2]+'\r\nМожно было и длиннее.');
+}
+```
 
 ## Worl experience
 
