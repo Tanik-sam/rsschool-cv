@@ -4,13 +4,13 @@
 ![Samoilovich Tatiana photo](https://drive.google.com/file/d/1mP9pMPGjfanhrYl7Qs_PXN9yzVxp2K2F/view?usp=sharing "Samoilovich Tatiana")
 
 ## Contacts
-- [E-mail:](mailto:tanik.sam1@gmail.com "e-mail")
+- [E-mail](mailto:tanik.sam1@gmail.com "e-mail")
 - Tel/viber: +375 29 767 06 10
 - Telegram: @lisica_yes
 - Discord: Tanik-sam#0468
-- [Linkedin:](https://www.linkedin.com/in/%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%BE%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87-7888a61b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPw5mkLjzR5KpbMPEAUGDyQ%3D%3D "Linkedin Tatiana Samoilovich") 
-- [CV:](https://drive.google.com/file/d/1KfkzBcLxHt_k7jtYuDpJhmnriGsTQSh9/view?usp=sharing "CV")
-- [GitHub:](https://github.com/Tanik-sam "GitHub Tanik-sam")
+- [Linkedin](https://www.linkedin.com/in/%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%BE%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87-7888a61b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPw5mkLjzR5KpbMPEAUGDyQ%3D%3D "Linkedin Tatiana Samoilovich") 
+- [CV](https://drive.google.com/file/d/1KfkzBcLxHt_k7jtYuDpJhmnriGsTQSh9/view?usp=sharing "CV")
+- [GitHub](https://github.com/Tanik-sam "GitHub Tanik-sam")
 - Minsk, Belarus
 
 
