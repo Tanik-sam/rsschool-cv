@@ -47,7 +47,7 @@ function longest_words(){
 }
 ```
 
-## Worl experience
+## Work experience
 
 
 |       Period     |                             Job                                | 
