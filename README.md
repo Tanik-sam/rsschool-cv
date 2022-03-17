@@ -1,2 +1,2 @@
 # rsschool-cv
-[link](https://tanik-sam.github.io/rsschool-cv/cv)
+[link](https://tanik-sam.github.io/rsschool-cv/)
